@@ -39,12 +39,13 @@
 
 .g1,.g2 {
     margin-top: 20px;
+    margin-bottom: 50px;
     background-color: #eac6ff;
     border-radius: 23px;
     padding-bottom: 10px;
 }
 
-.t1 {
+.t1,.t2 {
     padding-top: 7px;
     font-size: 20px;
     margin-top: 20px;
@@ -62,7 +63,13 @@
     background-color:  #7987f8;
 }
 
-.p1 {
+.t2:hover {
+    box-shadow: -8px -10px 13px 3px rgba(96, 135, 251, 0.24);
+    background-color:  #7987f8;
+}
+
+
+.p1,.p2 {
     padding-right: 15px;
     padding-left: 15px;
 }
