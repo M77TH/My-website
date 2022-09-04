@@ -29,11 +29,11 @@
 
 .message {
     border: red 3px;
-    margin: 50px;
-    max-width: 600px;
+    margin: auto;
+    max-width: 800px;
     justify-content: center;
 
-}
+}   
 
 .title-1 {
     padding-bottom: 10px;
@@ -48,7 +48,6 @@
     background-color: #eac6ff;
     border-radius: 23px;
     padding-bottom: 10px;
-    max-width: 600px;
 }
 
 .t1,.t2,.t3,.t4,.t5,.t6 {
@@ -67,6 +66,7 @@
 .t1:hover {
     box-shadow: -8px -10px 13px 3px rgba(96, 135, 251, 0.24);
     background-color:  #7987f8;
+    animation-delay: 5s;
 }
 .t2:hover {
     box-shadow: -8px -10px 13px 3px rgba(96, 135, 251, 0.24);
