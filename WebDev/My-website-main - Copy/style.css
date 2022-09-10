@@ -14,6 +14,34 @@
     justify-content: center;
 }
 
+.title {
+    background-color: black;
+    background-image: url(https://media.discordapp.net/attachments/1018092842217898005/1018092946698031124/img-t1.png?width=716&height=406);
+    background-size: cover;
+    background-position: center;
+    margin: auto;
+    padding: 100px;
+    padding-bottom: 300px;
+    width: 70%;
+    
+}
+
+.title-1 {
+    background-color: #F5F0BB;
+    border-radius: 30px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    max-width: 1000px;
+    margin: auto;
+    padding: 10px;
+    font-size: 50px;
+}
+
+.p {
+    display: flex;
+    justify-content: center;
+}
 
 .home {
     color: aliceblue;
@@ -36,13 +64,6 @@
 
 }   
 
-.title-1 {
-    padding-bottom: 10px;
-    display: flex;
-    justify-content: center;
-    max-width: 600px;
-}
-
 .g1,.g2,.g3,.g4,.g5,.g6 {
     margin-top: 20px;
     margin-bottom: 50px;
@@ -61,6 +82,7 @@
     display: flex;
     height: 40px;
     justify-content: center;
+    font-family: 'Kanit', sans-serif;
 
 }
 
